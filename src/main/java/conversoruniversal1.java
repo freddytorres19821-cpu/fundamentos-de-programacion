@@ -155,7 +155,7 @@ private boolean modoOscuro = false;
             jComboBox3.addItem("gramos");
             break;
 
-        case "Temperatura": // corregido
+        case "Temperatura": 
             jComboBox2.addItem("Celsius");
             jComboBox2.addItem("Fahrenheit");
             jComboBox2.addItem("Kelvin");
